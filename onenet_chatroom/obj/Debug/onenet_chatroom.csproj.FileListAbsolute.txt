@@ -1,0 +1,9 @@
+E:\vs_proj\onenet_chatroom\onenet_chatroom\bin\Debug\onenet_chatroom.exe
+E:\vs_proj\onenet_chatroom\onenet_chatroom\bin\Debug\onenet_chatroom.pdb
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\onenet_chatroom.Form1.resources
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\onenet_chatroom.Properties.Resources.resources
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\onenet_chatroom.csproj.GenerateResource.Cache
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\onenet_chatroom.exe
+E:\vs_proj\onenet_chatroom\onenet_chatroom\obj\Debug\onenet_chatroom.pdb
+E:\vs_proj\onenet_chatroom\onenet_chatroom\bin\Debug\Newtonsoft.Json.Net35.dll
